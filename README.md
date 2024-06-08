@@ -44,9 +44,7 @@ An open-source Kanban board application built with Flutter that allows you to ma
         - widgets
 
 
-_Note_: This is my current approach and architecture:
-
-- clean-arch branch: Clean Architecture approach using flutter_bloc.
+_Note_: This is my current approach with clean architecture:
 
 
 ## Features
