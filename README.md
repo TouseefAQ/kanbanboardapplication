@@ -4,9 +4,6 @@ An open-source Kanban board application built with Flutter that allows you to ma
 
 ### Architecture Diagram:
 
-<p align="left">
-    <img src="/.github/images/architecture_diagram.png" alt="Image" width="600"/>
-</p>
 
 ### Folder Structure:
 
